@@ -6,7 +6,7 @@ TypeScript, React, Next.js, Vite, Tailwind, Sass and other technologies.
 
 
 📫 Connect with Me
-linkedin: linkedin.com/in/igor-peregudov
-telegram: @igor_peregudov
-email: igor.peregudov93@gmail.com
+- linkedin: linkedin.com/in/igor-peregudov
+- telegram: @igor_peregudov
+- email: igor.peregudov93@gmail.com
 
